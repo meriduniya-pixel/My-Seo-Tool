@@ -1,0 +1,13 @@
+How to install seo tool script 2020 
+
+
+1- download file and extract file  in localhost/webhosting
+
+2- create a databasee  with seotool name(you can use any name) then import mysql file in  it (sql file is available in download code)
+
+3- then open downloaded php script and open db.php file enter your database name and save the code
+
+4- open admin folder then open db.php file enter your database name and save the code
+
+
+5- now succesfuuly run you website
